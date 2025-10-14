@@ -2,7 +2,7 @@
 👋 Hi, I'm Sriprasanna!  
 💻 Software Developer Intern at Infosys | Passionate about Full-Stack Development  
 
-🚀 I specialize in building responsive, user-focused, and scalable web applications using **React.js, Java, and Node.js**.  
+🚀 I specialize in building responsive, user-focused, and scalable web applications using **React.js, Java, and SQL**.  
 💡 I enjoy solving complex problems through clean code, modern design, and performance optimization.  
 🌱 Currently expanding my skills in **Data Structures, Algorithms, and Backend Development**.  
 🎯 My goal is to become a versatile Full-Stack Developer capable of building impactful real-world products.
