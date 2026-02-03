@@ -1,12 +1,36 @@
 # 💫 About Me:
-👋 Hi, I'm Sriprasanna!  
-💻 Software Developer Intern at Infosys | Passionate about Full-Stack Development  
+🚀 Java Full Stack Developer Intern at Infosys  
+💻 Tech Stack: Java | Spring Boot | Angular | MySQL | REST APIs  
 
-🚀 I specialize in building responsive, user-focused, and scalable web applications using **React.js, Java, and SQL**.  
-💡 I enjoy solving complex problems through clean code, modern design, and performance optimization.  
-🌱 Currently expanding my skills in **Data Structures, Algorithms, and Backend Development**.  
-🎯 My goal is to become a versatile Full-Stack Developer capable of building impactful real-world products.
+---
 
+## 🔥 About Me
+I am a Java Full Stack Developer passionate about building scalable backend and full-stack web applications.  
+Currently learning and building projects using Spring Boot + Angular.
+
+---
+
+## 🛠 Skills
+- Java 11  
+- Spring Boot  
+- REST API Development  
+- Spring Data JPA  
+- MySQL  
+- Angular  
+- Git & GitHub  
+
+---
+
+## 📜 Certifications
+- Java 11 Beyond Basics  
+- REST API using Spring  
+- Persistence Layer using Spring Data  
+- Service Layer using Spring  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/sriprasanna8585
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tron_krish_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriprasanna8585/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sriprasanna8585@gmail.com) 
